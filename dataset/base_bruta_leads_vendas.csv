@@ -1,0 +1,121 @@
+id_lead,data_cadastro,canal_origem,campanha,segmento,cidade,vendedor,status_lead,data_primeiro_contato,proposta_enviada,data_proposta,valor_proposta,venda_fechada,data_venda,valor_venda
+1,13/04/2024,Instagram,,SaaS,Rio de Janeiro,Lucas,novo,20-04-2024,não,2024/04/22,2368.55,sim,29/04/2024,2368.55
+2,29/03/2024,Orgânico,Campanha B,Educação,SP,lucas,fechado,02-04-2024,não,2024/04/04,1110.91,sim,08/04/2024,1110.91
+3,25/02/2024,Insta,Campanha A,Educação,Rio de Janeiro,Lucas,perdido,02-03-2024,sim,2024/03/04,,sim,11/03/2024,9011.32
+4,15/04/2024,Orgânico,Campanha A,E-commerce,Rio de Janeiro,Carlos,novo,15-04-2024,sim,2024/04/16,8484.78,não,,
+5,22/03/2024,instagram,Campanha A,E-commerce,São Paulo,Ana,proposta,30-03-2024,sim,2024/03/30,,sim,31/03/2024,9947.15
+6,04/02/2024,Orgânico,Campanha B,Educação,Rio de Janeiro,Carlos,proposta,06-02-2024,sim,2024/02/09,3776.18,sim,13/02/2024,3776.18
+7,06/01/2024,instagram,,E-commerce,São Paulo,Carlos,proposta,08-01-2024,sim,2024/01/11,7242.95,não,,
+8,11/05/2024,Google Ads,Campanha B,Educação,Rio de Janeiro,Lucas,contatado,12-05-2024,não,2024/05/12,9087.66,sim,15/05/2024,9087.66
+9,04/05/2024,google ads,Campanha A,Educação,SP,Ana,contatado,10-05-2024,não,2024/05/13,6771.04,não,,
+10,07/02/2024,google ads,Campanha A,SaaS,SP,Ana,fechado,12-02-2024,sim,2024/02/17,5243.99,sim,17/02/2024,5243.99
+11,03/04/2024,Orgânico,Campanha B,Serviços,São Paulo,Lucas,proposta,08-04-2024,não,2024/04/09,,não,,
+12,28/01/2024,Orgânico,Campanha A,Serviços,Rio de Janeiro,Lucas,novo,05-02-2024,sim,2024/02/06,8875.22,não,,
+13,07/02/2024,Insta,Campanha B,E-commerce,Rio de Janeiro,lucas,proposta,15-02-2024,sim,2024/02/19,,não,,
+14,07/04/2024,Referral,,Serviços,sao paulo,lucas,contatado,09-04-2024,sim,2024/04/09,5440.32,sim,10/04/2024,5440.32
+15,05/05/2024,instagram,Campanha A,SaaS,Belo Horizonte,Lucas,perdido,06-05-2024,sim,2024/05/10,,não,,
+16,14/06/2024,Google Ads,Campanha B,SaaS,Rio de Janeiro,Carlos,contatado,20-06-2024,não,2024/06/22,6435.12,não,,
+17,15/02/2024,Orgânico,,Educação,SP,Carlos,perdido,15-02-2024,não,2024/02/19,2770.29,não,,
+18,02/01/2024,Google Ads,,Educação,Rio de Janeiro,Lucas,perdido,10-01-2024,sim,2024/01/10,6125.94,sim,11/01/2024,6125.94
+19,16/01/2024,Referral,,SaaS,Belo Horizonte,Carlos,novo,23-01-2024,não,2024/01/25,7684.02,sim,25/01/2024,7684.02
+20,05/06/2024,instagram,Campanha A,E-commerce,Rio de Janeiro,Ana,novo,11-06-2024,sim,2024/06/12,9134.39,sim,16/06/2024,9134.39
+21,20/06/2024,instagram,,Serviços,,Carlos,fechado,21-06-2024,não,2024/06/25,8468.46,sim,28/06/2024,8468.46
+22,21/06/2024,Referral,Campanha A,Serviços,Belo Horizonte,lucas,perdido,23-06-2024,não,2024/06/28,6787.0,sim,02/07/2024,6787.0
+23,11/05/2024,Google Ads,Campanha B,SaaS,Belo Horizonte,Lucas,perdido,14-05-2024,não,2024/05/14,2614.51,não,,
+24,28/01/2024,google ads,Campanha B,Educação,Rio de Janeiro,Carlos,novo,01-02-2024,sim,2024/02/04,1517.98,sim,11/02/2024,1517.98
+25,02/01/2024,instagram,,Serviços,sao paulo,lucas,proposta,12-01-2024,não,2024/01/16,5699.57,não,,
+26,22/01/2024,Orgânico,,SaaS,sao paulo,lucas,fechado,28-01-2024,sim,2024/02/01,8564.39,sim,05/02/2024,8564.39
+27,26/02/2024,Instagram,,SaaS,Rio de Janeiro,Lucas,contatado,01-03-2024,não,2024/03/02,8660.36,não,,
+28,22/01/2024,Insta,Campanha A,E-commerce,sao paulo,Ana,fechado,23-01-2024,não,2024/01/27,1445.94,não,,
+29,12/04/2024,Orgânico,,Serviços,sao paulo,Carlos,fechado,13-04-2024,não,2024/04/14,2491.93,não,,
+30,15/02/2024,Instagram,Campanha A,E-commerce,sao paulo,lucas,novo,21-02-2024,não,2024/02/21,7578.32,não,,
+31,12/03/2024,Referral,,E-commerce,sao paulo,Carlos,proposta,18-03-2024,sim,2024/03/22,,sim,25/03/2024,5026.8
+32,16/03/2024,Insta,Campanha B,Educação,Rio de Janeiro,lucas,proposta,16-03-2024,sim,2024/03/19,9752.09,não,,
+33,25/06/2024,instagram,,E-commerce,SP,Lucas,proposta,05-07-2024,não,2024/07/06,1409.75,sim,13/07/2024,1409.75
+34,13/01/2024,Orgânico,Campanha B,Serviços,São Paulo,lucas,perdido,23-01-2024,sim,2024/01/24,1638.0,não,,
+35,02/04/2024,instagram,,SaaS,Rio de Janeiro,lucas,contatado,11-04-2024,não,2024/04/16,7739.86,não,,
+36,22/01/2024,Instagram,,SaaS,SP,lucas,novo,30-01-2024,sim,2024/02/02,7675.35,não,,
+37,25/06/2024,instagram,Campanha A,Serviços,Rio de Janeiro,Lucas,perdido,27-06-2024,não,2024/07/01,8019.64,não,,
+38,12/06/2024,google ads,Campanha A,E-commerce,São Paulo,Ana,contatado,18-06-2024,não,2024/06/19,9166.08,não,,
+39,14/02/2024,Orgânico,Campanha B,E-commerce,Belo Horizonte,Carlos,novo,23-02-2024,não,2024/02/26,7016.15,não,,
+40,08/04/2024,Insta,Campanha B,E-commerce,Belo Horizonte,Carlos,novo,18-04-2024,sim,2024/04/19,9278.78,não,,
+41,17/02/2024,Insta,Campanha B,Educação,São Paulo,Ana,novo,26-02-2024,não,2024/03/01,8740.68,sim,06/03/2024,8740.68
+42,13/04/2024,Insta,,Serviços,Belo Horizonte,Lucas,fechado,19-04-2024,não,2024/04/19,6984.31,não,,
+43,17/02/2024,Referral,Campanha B,SaaS,SP,Lucas,fechado,24-02-2024,sim,2024/02/29,,não,,
+44,08/02/2024,Insta,,Educação,Belo Horizonte,Ana,novo,15-02-2024,sim,2024/02/17,5424.62,não,,
+45,14/02/2024,instagram,Campanha B,SaaS,São Paulo,Lucas,novo,22-02-2024,não,2024/02/26,3518.06,não,,
+46,08/03/2024,Instagram,,SaaS,sao paulo,lucas,novo,14-03-2024,sim,2024/03/17,8751.89,não,,
+47,17/06/2024,google ads,,E-commerce,Rio de Janeiro,Ana,novo,18-06-2024,sim,2024/06/20,8946.05,não,,
+48,16/02/2024,instagram,Campanha B,E-commerce,Rio de Janeiro,Ana,novo,25-02-2024,sim,2024/02/25,6874.45,sim,26/02/2024,6874.45
+49,07/03/2024,instagram,,Serviços,,Ana,perdido,14-03-2024,não,2024/03/19,,sim,21/03/2024,8443.99
+50,19/02/2024,Orgânico,Campanha A,Educação,Rio de Janeiro,lucas,proposta,24-02-2024,sim,2024/02/27,4245.5,não,,
+51,16/05/2024,Google Ads,Campanha B,Educação,São Paulo,Ana,proposta,22-05-2024,sim,2024/05/25,3273.64,sim,27/05/2024,3273.64
+52,06/01/2024,Orgânico,Campanha B,E-commerce,Rio de Janeiro,Lucas,proposta,15-01-2024,sim,2024/01/18,5226.02,não,,
+53,22/02/2024,Instagram,,E-commerce,Belo Horizonte,Ana,perdido,03-03-2024,sim,2024/03/07,3437.74,não,,
+54,13/02/2024,Instagram,Campanha B,Serviços,São Paulo,lucas,perdido,23-02-2024,não,2024/02/26,2546.72,não,,
+55,02/01/2024,Instagram,Campanha A,Educação,sao paulo,Lucas,perdido,03-01-2024,sim,2024/01/08,4440.29,não,,
+56,24/01/2024,google ads,,E-commerce,sao paulo,lucas,fechado,26-01-2024,não,2024/01/28,6016.87,sim,04/02/2024,6016.87
+57,14/02/2024,Insta,Campanha B,SaaS,São Paulo,Ana,novo,20-02-2024,sim,2024/02/22,2174.29,sim,27/02/2024,2174.29
+58,12/05/2024,Instagram,,SaaS,São Paulo,Ana,fechado,12-05-2024,sim,2024/05/16,4698.02,sim,22/05/2024,4698.02
+59,29/05/2024,Referral,Campanha A,Serviços,,Ana,contatado,31-05-2024,sim,2024/06/02,8244.58,não,,
+60,29/04/2024,Orgânico,,Serviços,,lucas,novo,01-05-2024,sim,2024/05/03,8000.05,sim,06/05/2024,8000.05
+61,06/06/2024,Instagram,,Serviços,Belo Horizonte,Lucas,fechado,12-06-2024,sim,2024/06/13,6630.49,sim,15/06/2024,6630.49
+62,16/01/2024,Referral,,SaaS,,Carlos,contatado,17-01-2024,sim,2024/01/21,9210.53,sim,21/01/2024,9210.53
+63,12/04/2024,instagram,Campanha A,SaaS,Belo Horizonte,Carlos,proposta,15-04-2024,não,2024/04/19,6259.13,não,,
+64,20/05/2024,google ads,Campanha B,Educação,SP,lucas,contatado,23-05-2024,não,2024/05/27,5348.08,sim,29/05/2024,5348.08
+65,05/02/2024,Insta,Campanha A,E-commerce,Belo Horizonte,Lucas,contatado,10-02-2024,não,2024/02/15,9053.76,não,,
+66,27/02/2024,Orgânico,Campanha B,Serviços,São Paulo,Ana,proposta,04-03-2024,sim,2024/03/09,5844.69,sim,16/03/2024,5844.69
+67,12/05/2024,google ads,Campanha B,E-commerce,Rio de Janeiro,Ana,proposta,13-05-2024,sim,2024/05/15,1423.44,não,,
+68,09/03/2024,Referral,,Serviços,,lucas,contatado,16-03-2024,não,2024/03/16,9894.66,sim,16/03/2024,9894.66
+69,29/06/2024,Instagram,Campanha A,SaaS,sao paulo,Carlos,fechado,29-06-2024,não,2024/07/04,,não,,
+70,12/02/2024,Instagram,Campanha A,SaaS,São Paulo,lucas,fechado,18-02-2024,não,2024/02/23,5565.26,não,,
+71,03/01/2024,Instagram,Campanha A,Educação,Rio de Janeiro,lucas,perdido,10-01-2024,sim,2024/01/10,6696.92,sim,14/01/2024,6696.92
+72,30/05/2024,Referral,Campanha A,E-commerce,São Paulo,Lucas,fechado,05-06-2024,não,2024/06/06,7065.36,não,,
+73,29/06/2024,Instagram,Campanha A,Serviços,SP,Carlos,contatado,09-07-2024,sim,2024/07/13,8494.61,sim,19/07/2024,8494.61
+74,16/04/2024,Insta,Campanha A,SaaS,sao paulo,Lucas,fechado,19-04-2024,não,2024/04/22,9842.39,não,,
+75,24/05/2024,Google Ads,Campanha A,SaaS,SP,Carlos,perdido,01-06-2024,sim,2024/06/02,7097.81,não,,
+76,06/06/2024,google ads,Campanha B,SaaS,Rio de Janeiro,Carlos,fechado,12-06-2024,sim,2024/06/15,5631.12,sim,22/06/2024,5631.12
+77,05/02/2024,Insta,Campanha B,SaaS,Belo Horizonte,Carlos,fechado,08-02-2024,não,2024/02/08,5055.69,não,,
+78,20/05/2024,Google Ads,Campanha A,E-commerce,SP,lucas,contatado,20-05-2024,sim,2024/05/23,6833.98,não,,
+79,22/03/2024,instagram,,E-commerce,sao paulo,Lucas,fechado,25-03-2024,sim,2024/03/29,1670.86,sim,05/04/2024,1670.86
+80,05/06/2024,instagram,Campanha A,Educação,Belo Horizonte,lucas,proposta,15-06-2024,não,2024/06/20,8431.52,não,,
+81,29/01/2024,Referral,Campanha A,SaaS,,lucas,fechado,04-02-2024,não,2024/02/09,,sim,09/02/2024,3805.76
+82,19/02/2024,Insta,,Educação,Rio de Janeiro,Lucas,novo,25-02-2024,sim,2024/03/01,4021.02,não,,
+83,10/04/2024,Referral,,Serviços,SP,lucas,contatado,13-04-2024,sim,2024/04/16,2072.25,não,,
+84,06/04/2024,instagram,Campanha A,E-commerce,São Paulo,Carlos,proposta,14-04-2024,sim,2024/04/17,5677.08,sim,19/04/2024,5677.08
+85,19/02/2024,Orgânico,Campanha A,Serviços,São Paulo,lucas,proposta,26-02-2024,sim,2024/02/28,6015.27,não,,
+86,12/01/2024,Orgânico,,SaaS,São Paulo,lucas,fechado,22-01-2024,sim,2024/01/24,2670.57,sim,24/01/2024,2670.57
+87,28/06/2024,Orgânico,,SaaS,,Lucas,novo,06-07-2024,não,2024/07/06,9231.59,sim,07/07/2024,9231.59
+88,29/06/2024,google ads,,Educação,Belo Horizonte,lucas,proposta,04-07-2024,não,2024/07/04,3792.47,sim,04/07/2024,3792.47
+89,21/01/2024,Instagram,Campanha A,Serviços,Belo Horizonte,Ana,novo,23-01-2024,não,2024/01/25,3212.26,não,,
+90,01/06/2024,Referral,Campanha A,SaaS,sao paulo,Ana,fechado,05-06-2024,não,2024/06/08,6016.04,sim,08/06/2024,6016.04
+91,21/06/2024,Referral,,Serviços,SP,Carlos,fechado,26-06-2024,sim,2024/06/29,6325.14,não,,
+92,13/01/2024,Orgânico,,Educação,Rio de Janeiro,Carlos,contatado,21-01-2024,não,2024/01/25,8823.6,não,,
+93,05/02/2024,instagram,Campanha A,Educação,SP,Lucas,novo,07-02-2024,sim,2024/02/08,7084.12,não,,
+94,01/04/2024,Instagram,Campanha A,Educação,SP,Lucas,contatado,11-04-2024,sim,2024/04/11,,não,,
+95,15/04/2024,Orgânico,,E-commerce,São Paulo,Lucas,contatado,19-04-2024,sim,2024/04/24,,sim,01/05/2024,8545.31
+96,21/03/2024,instagram,Campanha B,E-commerce,SP,Ana,perdido,24-03-2024,não,2024/03/27,3825.31,não,,
+97,04/03/2024,Referral,Campanha B,SaaS,São Paulo,Ana,novo,04-03-2024,sim,2024/03/09,3227.55,sim,16/03/2024,3227.55
+98,19/02/2024,Orgânico,Campanha A,Educação,Rio de Janeiro,lucas,fechado,26-02-2024,não,2024/02/26,7753.76,sim,04/03/2024,7753.76
+99,21/02/2024,google ads,,Serviços,sao paulo,Ana,proposta,23-02-2024,sim,2024/02/26,8913.49,sim,29/02/2024,8913.49
+100,13/02/2024,Orgânico,Campanha A,Serviços,Belo Horizonte,Carlos,proposta,17-02-2024,não,2024/02/20,2548.84,não,,
+101,07/06/2024,Insta,,E-commerce,São Paulo,Lucas,perdido,16-06-2024,sim,2024/06/20,2652.1,sim,21/06/2024,2652.1
+102,20/02/2024,Orgânico,,Educação,SP,Lucas,perdido,29-02-2024,não,2024/02/29,1243.11,sim,01/03/2024,1243.11
+103,31/03/2024,Insta,Campanha A,Serviços,SP,Lucas,fechado,06-04-2024,sim,2024/04/10,5918.36,não,,
+104,19/01/2024,Referral,Campanha A,Serviços,sao paulo,Lucas,fechado,24-01-2024,sim,2024/01/26,2350.45,sim,02/02/2024,2350.45
+105,25/04/2024,Insta,Campanha A,SaaS,Rio de Janeiro,Carlos,proposta,30-04-2024,sim,2024/05/02,7529.89,não,,
+106,10/01/2024,instagram,Campanha A,Serviços,,Carlos,fechado,10-01-2024,sim,2024/01/15,,não,,
+107,17/06/2024,Orgânico,,Educação,Rio de Janeiro,lucas,contatado,26-06-2024,não,2024/06/26,2688.55,não,,
+108,27/04/2024,Insta,,Educação,São Paulo,Carlos,fechado,04-05-2024,não,2024/05/06,5547.02,sim,07/05/2024,5547.02
+109,28/03/2024,Insta,,E-commerce,SP,Carlos,fechado,28-03-2024,não,2024/03/28,3266.42,sim,03/04/2024,3266.42
+110,22/03/2024,Google Ads,,SaaS,São Paulo,Carlos,novo,01-04-2024,sim,2024/04/04,9814.42,não,,
+111,21/02/2024,instagram,,SaaS,Belo Horizonte,Carlos,proposta,21-02-2024,sim,2024/02/23,6345.16,sim,25/02/2024,6345.16
+112,27/04/2024,Referral,,Serviços,SP,Lucas,novo,29-04-2024,sim,2024/05/04,,não,,
+113,08/03/2024,instagram,,Educação,sao paulo,Ana,perdido,11-03-2024,não,2024/03/13,1147.39,sim,20/03/2024,1147.39
+114,19/05/2024,Insta,,Educação,SP,Carlos,novo,28-05-2024,sim,2024/05/29,8783.96,não,,
+115,14/05/2024,Insta,Campanha A,SaaS,Rio de Janeiro,Ana,perdido,16-05-2024,sim,2024/05/21,,sim,23/05/2024,8153.55
+116,01/02/2024,Referral,Campanha B,Serviços,São Paulo,Carlos,contatado,06-02-2024,não,2024/02/11,5057.61,sim,13/02/2024,5057.61
+117,17/02/2024,google ads,,SaaS,SP,Ana,contatado,25-02-2024,sim,2024/03/01,7966.71,sim,04/03/2024,7966.71
+118,14/05/2024,Insta,,E-commerce,sao paulo,Ana,fechado,23-05-2024,não,2024/05/24,3847.11,não,,
+119,14/05/2024,google ads,Campanha B,E-commerce,Belo Horizonte,lucas,contatado,15-05-2024,sim,2024/05/17,,não,,
+120,27/04/2024,Insta,Campanha B,Serviços,SP,Ana,proposta,28-04-2024,não,2024/04/29,6212.8,não,,
